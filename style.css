@@ -1,0 +1,45 @@
+h2 /*JASONMARTIN*/{
+    font: Century Gothic, Bold, 104px;
+    font-weight: 700;
+    text-transform:uppercase;
+    letter-spacing:12.27px;
+    color:#0099ff;
+}
+h3 /*UX / UI DESIGNER*/{
+    font: Open Sans - Semibold, Regular, 50px;
+    font-weight: 400;
+    text-transform:uppercase;
+    letter-spacing:7.49px;
+    color:#000000;
+}
+h4 /*EXPIRIENCE, SKILLS*/{
+    font: Century Gothic, Bold, 46px;
+    font-weight: 700;
+    text-transform:uppercase;
+    letter-spacing:2.29px;
+    color:#000000;
+}
+h5 /*Lead  Web Designer, Senior  Web Designer*/{
+    font: Century Gothic, Bold, 33px;
+    font-weight: 700;
+    color:#000000;
+}
+p {
+    font: Open Sans, Regular, 35px;
+    font-weight: 400;
+    color:#000000;
+}
+.telephone{
+    background-color:#0073bf;
+}
+.website{
+    background-color:#0099ff;
+}
+.email{
+    background-color:#00d9ff;
+}.gray /*gray text background*/{
+     background-color:#e5e5e5;
+ }
+.hobbies figcaption{
+    float: center;
+}
